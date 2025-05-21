@@ -1,4 +1,14 @@
-## Hi there 👋
+## hello 👋
+my name is emiliano ahumada, but you can just call me emi.
+i'm an engineering student currently studying cybernetic electronics engineering at cetys university
+tbh im just having fun here.
+
+## tools used
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 <!--
 **EmiFX/EmiFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
