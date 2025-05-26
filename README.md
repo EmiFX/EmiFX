@@ -1,7 +1,6 @@
 ## hello 👋
 my name is emiliano ahumada, but you can just call me emi.
 i'm an engineering student currently studying cybernetic electronics engineering at cetys university
-tbh im just having fun here.
 
 ## tools used
 
