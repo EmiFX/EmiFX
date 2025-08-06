@@ -1,5 +1,5 @@
 ## hello 👋
-my name is emiliano ahumada, but you can just call me emi. <br>
+my name is cesar emiliano ahumada, but you can just call me emi. <br>
 i'm an engineering student currently studying cybernetic electronics engineering at cetys university
 
 ## tools used
