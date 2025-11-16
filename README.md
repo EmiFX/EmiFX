@@ -3,7 +3,7 @@ my name is emiliano ahumada, but you can just call me emi. <br>
 i'm an engineering student currently studying cybernetic electronics engineering at cetys university <br>
 just a beginner in everything. <br>
 
-## tools used
+## what i know (kinda)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
