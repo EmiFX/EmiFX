@@ -1,7 +1,7 @@
 ## hello 👋
 my name is emiliano ahumada, but you can just call me emi. <br>
 i'm an engineering student currently studying cybernetic electronics engineering at cetys university <br>
-just a beginner in everything. <br>
+a newbie on ML and just trying my best ❤️‍🩹 <br>
 
 ## what i know (kinda)
 
